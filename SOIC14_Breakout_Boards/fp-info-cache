@@ -1,4 +1,4 @@
-20595150168152974
+20598512730447114
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -79353,6 +79353,20 @@ SOIC_Footprints
 8
 SOIC_Footprints
 14_Pin_SOIC_Board
+
+
+0
+14
+14
+SOIC_Footprints
+16_Pin_SOIC_Board
+
+
+0
+16
+16
+SOIC_Footprints
+20_Pin_SOIC_Board
 
 
 0
