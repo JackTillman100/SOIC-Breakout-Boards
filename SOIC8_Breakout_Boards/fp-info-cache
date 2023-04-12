@@ -1,4 +1,4 @@
-20595150168152974
+20598512731169500
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -79356,8 +79356,22 @@ SOIC_Footprints
 
 
 0
+14
+14
+SOIC_Footprints
+16_Pin_SOIC_Board
+
+
 0
+16
+16
+SOIC_Footprints
+20_Pin_SOIC_Board
+
+
 0
+20
+20
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf

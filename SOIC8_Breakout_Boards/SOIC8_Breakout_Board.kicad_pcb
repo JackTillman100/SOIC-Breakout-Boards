@@ -203,7 +203,7 @@
 
   (footprint "SOIC_Footprints:8_Pin_SOIC_Board" (layer "F.Cu")
     (tedit 0) (tstamp b68f8338-caa1-4bc8-b84d-f2bec984dd64)
-    (at 155 101.405)
+    (at 154.5 101.405)
     (property "Sheetfile" "8Pin_Testing_Board.kicad_sch")
     (property "Sheetname" "")
     (path "/b34e3431-fd81-40ad-b5e8-b6bdbcaf4114")
@@ -220,8 +220,8 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8c3d71ec-d312-4f4c-b38e-2f1ce78a48fc)
     )
-    (fp_rect (start -3.0988 -2.5019) (end 3.0988 2.5019) (layer "F.SilkS") (width 0.05) (fill none) (tstamp 5964a9bd-ae68-405c-925a-8ade32f81cbd))
-    (fp_rect (start -4.064 -4.064) (end 4.064 4.064) (layer "F.Fab") (width 0.12) (fill none) (tstamp 4d7621f5-e7ef-4b22-a806-ce7a4a595fa4))
+    (fp_rect (start -4.064 -4.064) (end 4.064 4.064) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 4d7621f5-e7ef-4b22-a806-ce7a4a595fa4))
+    (fp_rect (start -3.0988 -2.5019) (end 3.0988 2.5019) (layer "F.Fab") (width 0.05) (fill none) (tstamp 5964a9bd-ae68-405c-925a-8ade32f81cbd))
     (pad "1" smd rect (at -2.6035 -1.905) (size 2.2606 0.6604) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "Net-(J1-Pad1)") (pintype "unspecified") (tstamp 8b9efb0c-6b9d-43fe-9fdf-54d598f17d25))
     (pad "2" smd rect (at -2.6035 -0.635) (size 2.2606 0.6604) (layers "F.Cu" "F.Paste" "F.Mask")
@@ -372,10 +372,10 @@
 
   (gr_circle (center 149 96.5) (end 149.5 96.5) (layer "F.SilkS") (width 0.2) (fill solid) (tstamp 8530da2c-0438-4ed5-bbf9-719e5c569328))
   (gr_rect (start 142 88) (end 167 113) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 62c9f7c9-c7a5-4b75-bf3d-6a978c6785e9))
-  (gr_text "8 Pin SOIC Breakout Board" (at 148.5 109.405) (layer "B.SilkS") (tstamp 21372eb5-f64e-4cac-af49-477c51322aab)
+  (gr_text "8 Pin SOIC Breakout Board" (at 148.5 109.405) (layer "F.SilkS") (tstamp 21372eb5-f64e-4cac-af49-477c51322aab)
     (effects (font (size 0.5 0.5) (thickness 0.05)))
   )
-  (gr_text "Jack Tillman" (at 147.5 108.405) (layer "B.SilkS") (tstamp 89ba59f6-b736-40f1-9cd6-6a803e3c1457)
+  (gr_text "Jack Tillman" (at 147.5 108.405) (layer "F.SilkS") (tstamp 89ba59f6-b736-40f1-9cd6-6a803e3c1457)
     (effects (font (size 0.5 0.5) (thickness 0.05)))
   )
 

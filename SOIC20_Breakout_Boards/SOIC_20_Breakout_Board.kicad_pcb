@@ -193,8 +193,8 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 32462ffb-3d9f-419b-a374-8dd340c66eaa)
     )
-    (fp_rect (start -5.9055 -6.477) (end 4.6355 6.477) (layer "F.SilkS") (width 0.05) (fill none) (tstamp 253fe0d3-9ce2-4a8d-840e-17104774925b))
-    (fp_rect (start -6.985 -6.731) (end 5.588 6.858) (layer "F.Fab") (width 0.12) (fill none) (tstamp a60bbe1f-8521-4dc4-bb60-e355b93594bd))
+    (fp_rect (start -6.985 -6.731) (end 5.588 6.858) (layer "F.SilkS") (width 0.12) (fill none) (tstamp a60bbe1f-8521-4dc4-bb60-e355b93594bd))
+    (fp_rect (start -5.9055 -6.477) (end 4.6355 6.477) (layer "F.Fab") (width 0.05) (fill none) (tstamp 253fe0d3-9ce2-4a8d-840e-17104774925b))
     (pad "1" smd rect (at -5.7404 -5.715) (size 2.0828 0.7112) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "Net-(J1-Pad1)") (pintype "unspecified") (tstamp d2cbc86e-d3d3-4fc9-90ad-7a8706045bd4))
     (pad "2" smd rect (at -5.7404 -4.445) (size 2.0828 0.7112) (layers "F.Cu" "F.Paste" "F.Mask")
@@ -429,10 +429,10 @@
 
   (gr_circle (center 145.5 91.5) (end 146 91.5) (layer "F.SilkS") (width 0.2) (fill solid) (tstamp 8530da2c-0438-4ed5-bbf9-719e5c569328))
   (gr_rect (start 142 88.5) (end 169 120.5) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 62c9f7c9-c7a5-4b75-bf3d-6a978c6785e9))
-  (gr_text "20 Pin SOIC Breakout Board" (at 156 117.5) (layer "B.SilkS") (tstamp 21372eb5-f64e-4cac-af49-477c51322aab)
+  (gr_text "20 Pin SOIC Breakout Board" (at 156 117.5) (layer "F.SilkS") (tstamp 21372eb5-f64e-4cac-af49-477c51322aab)
     (effects (font (size 0.5 0.5) (thickness 0.05)))
   )
-  (gr_text "Jack Tillman" (at 155 116.5) (layer "B.SilkS") (tstamp 89ba59f6-b736-40f1-9cd6-6a803e3c1457)
+  (gr_text "Jack Tillman" (at 155.5 116.5) (layer "F.SilkS") (tstamp 89ba59f6-b736-40f1-9cd6-6a803e3c1457)
     (effects (font (size 0.5 0.5) (thickness 0.05)))
   )
 
